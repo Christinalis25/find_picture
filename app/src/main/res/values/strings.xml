@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search img</string>
+    <string name="illustration">Illustration</string>
+    <string name="photo">Photo</string>
+    <string name="vector">Vector</string>
+    <string name="search">Find...</string>
+</resources>
